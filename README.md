@@ -1,8 +1,8 @@
 # Crying4nxiety Project
 
-Alat ini saya buat untuk memudahkan saya dan kalian dalam melakukan aktivitas sehari hari!  
-Tools/Alat ini baru 10% jadi, oleh karena itu stay tune ya :)  
-Tools ini bekerja 100% di windows, pastikan kalian sudah memiliki python ya. Jika belum silahkan kalian download disini [Download Python](https://www.python.org/downloads/)
+Alat ini saya buat untuk memudahkan saya dan kalian dalam melakukan aktivitas sehari-hari!  
+Tools/Alat ini masih dalam tahap pengembangan, jadi pastikan Anda tetap update ya :)  
+Tools ini sepenuhnya kompatibel dengan Windows. Pastikan Anda telah menginstal Python di sistem Anda. Jika belum, Anda dapat mengunduhnya di [Download Python](https://www.python.org/downloads/)
 
 ## Alat dan Fungsionalitas
 
@@ -14,5 +14,22 @@ Tools ini bekerja 100% di windows, pastikan kalian sudah memiliki python ya. Jik
     - Alat untuk mengunduh video dari YouTube dengan resolusi maksimum.
 4. **Pembuat Gambar Gratis Tanpa Batas**
     - Alat untuk menghasilkan gambar secara otomatis berdasarkan prompt yang diberikan serta di proses agar lebih jernih.
+  
+## Cara Install
 
-Note: Pastikan Anda telah menginstal dependensi yang diperlukan sebelum menggunakan skrip ini, oh iya jika kalian belum menginstall dependensi/library yang dibutuhkan maka akan otomatis terdownload saat scriptnya dijalankan. Selain itu, gunakan alat ini dengan bijak dan sesuai dengan pedoman hukum yang berlaku.
+1. Clone repository ini:
+    ```bash
+    git clone https://github.com/adit624/crying4nxiety.git
+    ```
+
+2. Masuk ke dalam direktori proyek:
+    ```bash
+    cd crying4nxiety
+    ```
+
+3. Jalankan skrip utama:
+    ```bash
+    python main.py
+    ```
+
+**Catatan:** Pastikan Anda telah menginstal dependensi yang diperlukan sebelum menggunakan skrip ini. Jika Anda belum menginstal dependensi/library yang dibutuhkan, skrip akan mengunduhnya secara otomatis saat dijalankan. Selain itu, gunakan alat ini dengan bijak dan sesuai dengan pedoman hukum yang berlaku.

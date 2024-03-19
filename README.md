@@ -1,7 +1,8 @@
 # Crying4nxiety Project
 
 Alat ini saya buat untuk memudahkan saya dan kalian dalam melakukan aktivitas sehari hari!  
-Tools/Alat ini baru 10% jadi, oleh karena itu stay tune ya :)
+Tools/Alat ini baru 10% jadi, oleh karena itu stay tune ya :)  
+Tools ini bekerja 100% di windows, pastikan kalian sudah memiliki python ya. Jika belum silahkan kalian download disini [Download Python](https://www.python.org/downloads/)
 
 ## Alat dan Fungsionalitas
 

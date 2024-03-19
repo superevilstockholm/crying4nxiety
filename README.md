@@ -1,6 +1,6 @@
 # Crying4nxiety Project
 
-Alat ini saya buat untuk memudahkan saya dan kalian dalam melakukan aktivitas sehari hari!
+Alat ini saya buat untuk memudahkan saya dan kalian dalam melakukan aktivitas sehari hari!  
 Tools/Alat ini baru 10% jadi, oleh karena itu stay tune ya :)
 
 ## Alat dan Fungsionalitas
